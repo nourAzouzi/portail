@@ -52,7 +52,7 @@ function Navbar() {
                   className="nav-links"
                   onClick={closeMobileMenu}
                 >
-                  Boutiques
+                  Boutique
                 </Link>
               </li>
               <li className="nav-item">
